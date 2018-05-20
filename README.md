@@ -1,0 +1,2 @@
+# redcoin
+Crypto Currency 
